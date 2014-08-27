@@ -6,7 +6,6 @@ Obj/
 UnityGenerated/
 Library/
 Compiled/
-*.meta
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
